@@ -66,3 +66,5 @@ Order volume varies across different days of the week.
 Conclusion
 
 This project demonstrates how data visualization can turn raw data into actionable insights. The dashboard helps businesses better understand customer preferences, regional demand, and overall performance, enabling more informed decision-making.
+
+<img width="743" height="442" alt="image" src="https://github.com/user-attachments/assets/8ebd7f59-8065-47c1-abb0-e1f5f23dba1e" />
